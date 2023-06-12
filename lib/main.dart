@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Designs',
-      home: SlideShowPage(),
+      home: SlideshowPage(),
     );
   }
 }
